@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ala bala portokala, 1111111
-=======
-ala bala portokala ffffffffff
->>>>>>> a22c2ec10a4e02e8ab18040f64a24fdcdbf9ab30
+ala bala portokala, 1111111 ffffffffff
